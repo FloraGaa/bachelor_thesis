@@ -1,6 +1,7 @@
 # Bachelor Thesis: Bias Analysis Dataset - Generative AI Outputs
 This repository provides access to the datasets used in the bachelor thesis:
-""
+"Evaluating Bias in Locally Developed
+Generative AI for Global Application"
 The data consists of manually collected and coded outputs from multiple generative AI models.
 
 This repository accompanies the bachelor thesis and is intended to support transparency and traceability of the analysis.
