@@ -68,6 +68,7 @@ Short descriptive notes in the tracking sheets served as internal analytical aid
 
 In addition to the Experiment Tracking, individual sheets within these files include visualizations (charts) and the recoding logic used for evaluation of the method.
 
-_Flora Gashi(2026). “Titel der Arbeit”. Bachelor Thesis, HSLU._
+_Flora Gashi (2026). Evaluating Bias in Locally Developed
+Generative AI for Global Application. Bachelor Thesis, HSLU._
 
 
