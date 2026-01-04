@@ -33,7 +33,7 @@ For each prompt–model combination, the sheet records:
 - Bias Average (masked)
 -Refusal / Safety Note
 
-**Sheet:** Experiment Tracking Images 
+**Sheet:** Experiment Tracking Images  
 **Link:** [Experiment Tracking for Image Models](https://docs.google.com/spreadsheets/d/1l-kKVOEpS0N5-c2wulMvQFikrn-ienUwIjAkw8-T-vc/edit?usp=sharing)
 
 This sheet documents outputs from text-to-image generation models.
