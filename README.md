@@ -65,7 +65,7 @@ No scores or aggregation are performed in this sheet.
 
 Bias scores and annotations were assigned manually using the predefined framework described in the thesis.
 
-Short descriptive notes in the tracking sheets served as internal analytical aids during coding and do not represent formal bias categories.
+Short descriptive notes in the tracking sheets served as internal analytical aids during coding.
 
 In addition to the Experiment Tracking, individual sheets within these files include visualizations (charts) and the recoding logic used for evaluation of the method.
 
